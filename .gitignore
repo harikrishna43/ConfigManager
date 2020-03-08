@@ -1,0 +1,9 @@
+
+.vs/
+ConfigManager.Core/bin
+ConfigManager.Core/obj
+ConfigManager/App_Data
+ConfigManager/bin
+ConfigManager/obj
+ConfigManager/Umbraco
+packages
